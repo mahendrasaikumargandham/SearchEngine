@@ -1,4 +1,4 @@
-<h1>Search Engine🚀</h1>
+<h1>Search Engine using React🚀</h1>
 <details><summary>Technologies Used:</summary>
   <ul>
     <li>React</li>
