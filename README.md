@@ -10,4 +10,10 @@
 <p>To visit, <a href="https://search-engine-pro.vercel.app/">Click Here</a></p>
 <p>Fork the project and make your own search engine</p>
 <h3>Steps🪜</h3>
+<ul>
+  <li>Fork the project using `git clone`</li>
+  <li>Open Terminal or Command Prompt in the local machine and enroute to root directory</li>
+  <li>Install `npm install` or `npm i` to install node_modules</li>
+  <li>Make sure that node JS is installed in your local machine</li>
+</ul>
 
