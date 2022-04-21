@@ -22,7 +22,7 @@ function Home() {
             </div>
            </div>
            <div className="home_body">
-            <img src="https://github.com/mahendrasaikumargandham/SearchEngine/blob/master/public/images/search.png" alt="" />
+            <img src="images/filename.jpeg" alt="" />
             <div className="home_inputContainer">
                 <Search />
             </div>
